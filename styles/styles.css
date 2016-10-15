@@ -1,0 +1,229 @@
+pre {
+	padding-top: 50px;
+	font-family: "Arial";
+	font-size: 14px;
+	float:right;
+}
+
+hr {
+	width:100%;
+}
+body {color:black;
+	background-color: gray;
+	background-size: 100% 100%;
+	bottom:0;
+	background-repeat: no-repeat;
+
+}
+#Showcase{
+	margin-left: 50px;
+
+}
+#Zodiac{
+	margin-left: 50px;
+
+}
+
+#information{
+	display: inline-block;
+}
+
+html{
+	font-family: "Arial";
+	background-color: gray;
+	width: 100%;
+	height: 70%;
+	margin: auto;
+	}
+.subhead1 {
+	padding-left: 205px;
+	color: gray;
+
+}
+.subhead2 {
+	padding-left: 205px;
+	font-size: 40px;
+	font-weight: bold;
+	margin: 0px;
+
+}
+#mainsec{
+	font-size: 14px;
+
+
+}
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 2%;
+}
+.animal{
+	display: inline-block;
+	height: 10%;
+	width: 20%;
+	float: right;
+}
+.animal2{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	border: 1px solid black;
+
+}
+.animal3{
+	display: inline-block;
+	height: 50%;
+	width: 50%;
+	border: 1px solid black;
+}
+.animal4{
+	display: inline-block;
+	height: 25%;
+	width: 25%;
+	border: 1px solid black;
+}
+#centerpic{
+	display: inline-block;
+
+}
+.centertext{
+	text-align: center;
+	font-weight: bold;
+}
+
+th {
+	text-align: center;
+	padding-right: 30%;
+}
+
+#button1 {
+	    background-color: white;
+		opacity: 0.6;
+	    border: none;
+	    color: black;
+	    padding: 8px 32px;
+	    text-align: center;
+	    text-decoration: none;
+	    font-size: 16px;
+}
+.emails{
+	font-weight: bold;
+}
+.linklist{
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+	margin-bottom:10%;
+	text-align: center;
+}
+.linklist2{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-bottom:20px;
+	text-align: center;
+}
+.mainlist{
+	display: inline;
+	width: 100%;
+
+}
+.mainlist2{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#testul{
+	list-style-type: none;
+}
+.libod{
+	width: 100%;
+	text-align: center;
+	margin: 5px;
+}
+.col-xs-4{
+	text-align: center;
+}
+.heading{
+	color: white;
+}
+.col-md-6{
+	text-align: center;
+	
+}
+.myname{
+	text-align: left;
+}
+.row{
+	text-align: center;
+	
+}
+.yourname{
+	text-align: right;
+}
+.home{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 5%;
+}
+.animal5{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	border: 1px solid black;
+}
+.animal6{
+	display: inline-block;
+	height: 50%;
+	width: 50%;
+	border: 1px solid black;
+}
+.animal7{
+	display: inline-block;
+	height: 75%;
+	width: 75%;
+	border: 1px solid black;
+}
+.home2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50%;
+	width: 40%;
+	
+}
+.home3{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 100%;
+	
+}
+.animalpara{
+	text-align: center;
+}
+.rat, .ox, .tiger, .rabbit, .dragon, .snake, .horse, .goat, .monkey, .rooster, .dog, .pig{
+	border: 5px solid black;
+}
+.maintable{
+	text-align: center;
+}
+table {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+tr {
+	padding-right: 25%;
+}
+#nametag, #emailtag, #commenttag{
+	text-align: right;
+}
