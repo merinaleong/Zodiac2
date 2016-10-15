@@ -94,21 +94,7 @@ html{
 	font-weight: bold;
 }
 
-th {
-	text-align: center;
-	padding-right: 30%;
-}
 
-#button1 {
-	    background-color: white;
-		opacity: 0.6;
-	    border: none;
-	    color: black;
-	    padding: 8px 32px;
-	    text-align: center;
-	    text-decoration: none;
-	    font-size: 16px;
-}
 .emails{
 	font-weight: bold;
 }
@@ -221,9 +207,31 @@ table {
 	margin-left: 0;
 	margin-right: 0;
 }
-tr {
-	padding-right: 25%;
+
+#comments{
+	width: 75%;
+}
+th{
+	width: 75%;
+	padding-bottom: 1%;
 }
 #nametag, #emailtag, #commenttag{
 	text-align: right;
+	width: 25%;
+	padding: 1%;
+	padding-right: 2%;
+}
+input{
+	width: 75%;
+}
+#button1 {
+	    background-color: white;
+		opacity: 0.6;
+	    border: none;
+	    color: black;
+	    padding: 8px 32px;
+	    text-align: center;
+	    text-decoration: none;
+	    font-size: 16px;
+		width: 150px;
 }
